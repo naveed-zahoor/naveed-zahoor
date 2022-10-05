@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveed-zahoor&label=Profile%20views&color=0e75b6&style=flat" alt="naveed-zahoor" /> </p>
 
-- 🔭 I’m currently working on **vue js, Yii**
+- 🔭 I’m currently working on ** Golang and PHP **
 
 - 🌱 I’m currently learning **graphql, docker, aws**
 
